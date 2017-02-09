@@ -1,0 +1,25 @@
+body {
+  width: 90%;
+  border: thin black solid;
+  padding: 3%;
+}
+
+h1 {
+  text-align: center;
+}
+
+blockquote {
+  background-color: #dddddd;
+  border-bottom: thick black solid;
+  border-left: thick black solid;
+  padding: 1%;
+}
+
+img {
+  float: right;
+  clear: none;
+}
+
+h1, h2, p, blockquote {
+  font-family: sans-serif;
+}
