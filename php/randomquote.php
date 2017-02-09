@@ -2,9 +2,9 @@
 
 $quoteArray =
 [
-  ['author' => 'Louise Gluck', 'title' => 'October', 'quote' => '<em>you are not alone,</em> the poem said, in the dark tunnel.'],
+  ['author' => 'Louise Glück', 'title' => 'October', 'quote' => '<em>you are not alone,</em> the poem said, in the dark tunnel.'],
   ['author' => 'Lucie Brock-Broido', 'title' => 'Domestic Mysticism', 'quote' => 'I will betray as a god betrays, with tenderheartedness.'],
-  ['author' => 'Ada Limon', 'title' => 'Downhearted', 'quote' => 'What the heart wants? The heart wants her horses back.']
+  ['author' => 'Ada Limón', 'title' => 'Downhearted', 'quote' => 'What the heart wants? The heart wants her horses back.']
 ];
 
 $selectedQuote = $quoteArray[array_rand($quoteArray, 1)];

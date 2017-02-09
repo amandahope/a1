@@ -1,7 +1,5 @@
 body {
-  width: 90%;
   border: thin black solid;
-  padding: 3%;
 }
 
 h1 {
@@ -16,10 +14,8 @@ blockquote {
 }
 
 img {
-  float: right;
-  clear: none;
-}
-
-h1, h2, p, blockquote {
-  font-family: sans-serif;
+  width: 20%;
+  border: thin black solid;
+  display: block;
+  margin: 2em auto;
 }
