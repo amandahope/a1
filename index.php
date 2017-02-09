@@ -4,6 +4,7 @@
 <html>
 
 <head>
+  <meta charset="utf-8" />
   <title>Amanda Wininger</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
